@@ -116,7 +116,7 @@ export default function Home() {
       </div>
       <div className={styles.grid}>
         <a
-          href="http://your-portfolio-link-here"
+          href="https://askander.vercel.app"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -125,7 +125,7 @@ export default function Home() {
         </a>
 
         <a
-          href="http://your-github-link-here"
+          href="http://github/hamdymohamedak"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -134,7 +134,7 @@ export default function Home() {
         </a>
 
         <a
-          href="http://your-projects-link-here"
+          href="http://askander.vercel.app/components/work"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -143,7 +143,7 @@ export default function Home() {
         </a>
 
         <a
-          href="http://your-contact-link-here"
+          href="https://www.facebook.com/hamdy.elgokar.5?mibextid=ZbWKwL"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
