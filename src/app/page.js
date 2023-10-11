@@ -125,7 +125,7 @@ export default function Home() {
         </a>
 
         <a
-          href="http://github/hamdymohamedak"
+          href="https://github.com/hamdymohamedak"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
