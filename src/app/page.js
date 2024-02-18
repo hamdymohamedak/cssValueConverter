@@ -95,7 +95,7 @@ export default function Home() {
             padding: "1rem",
           }}
           type="number"
-          placeholder={isPxToRem ? "Px" : "Rem"}
+          placeholder="Value..."
           value={inputValue}
           onChange={handleInputChange}
         />
@@ -111,7 +111,7 @@ export default function Home() {
           }}
           type="number"
           value={outputValue}
-          placeholder={isPxToRem ? "Rem" : "Px"}
+          placeholder="Value..."
         />
       </div>
       <div className={styles.grid}>
